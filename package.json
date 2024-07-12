@@ -1,0 +1,18 @@
+{
+  "name": "cgm-test-auto",
+  "version": "1.0.0",
+  "description": "CGM - Test Automation Excercice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mohammed TEBIB",
+  "license": "ISC",
+  "dependencies": {
+    "@cypress/webpack-preprocessor": "^6.0.2",
+    "cypress": "^13.13.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.5.3"
+  }
+}
